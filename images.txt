@@ -7,5 +7,4 @@ xhofe/alist:latest
 mysql:latest
 hello-world:latest
 whyour/qinglong:latest
-webhook/webhook
 nikolaik/python-nodejs:python3.11-nodejs20
