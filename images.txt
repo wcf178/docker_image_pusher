@@ -10,4 +10,4 @@ whyour/qinglong:latest
 nikolaik/python-nodejs:python3.11-nodejs20
 
 # ===== QQ Bot =====
-ghcr.io/lagrangedev/lagrange.onebot:edge
+mlikiowa/napcat-docker:latest
