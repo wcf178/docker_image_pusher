@@ -8,3 +8,6 @@ mysql:latest
 hello-world:latest
 whyour/qinglong:latest
 nikolaik/python-nodejs:python3.11-nodejs20
+
+# ===== QQ Bot 相关 =====
+mlky/napcat:latest
