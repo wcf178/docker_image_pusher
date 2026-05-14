@@ -9,5 +9,5 @@ hello-world:latest
 whyour/qinglong:latest
 nikolaik/python-nodejs:python3.11-nodejs20
 
-# ===== QQ Bot 相关 =====
-ghcr.io/lagrangedev/lagrange.onebot:edge
+# ===== QQ Bot =====
+silicer/go-cqhttp:latest
